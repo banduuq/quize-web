@@ -54,6 +54,15 @@ export default {
           ]
         },
         {
+          question: "3.which is my surname?",
+          answers: [
+            {text: "ey", correct: false},
+            {text: "gt", correct: false},
+            {text: "banduuq", correct: false},
+            {text: "cabbas", correct: true}
+          ]
+        },
+        {
           question: "3.which is my sasasasas?",
           answers: [
             {text: " jey", correct: false},
