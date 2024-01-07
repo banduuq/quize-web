@@ -47,10 +47,19 @@ export default {
         {
           question: "3.which is my surname?",
           answers: [
-            {text: "yavşak jey", correct: false},
+            {text: "ey", correct: false},
             {text: "gt", correct: true},
             {text: "banduuq", correct: false},
-            {text: "yavşak cabbas", correct: false}
+            {text: "cabbas", correct: false}
+          ]
+        },
+        {
+          question: "3.which is my sasasasas?",
+          answers: [
+            {text: " jey", correct: false},
+            {text: "gtttt", correct: false},
+            {text: "banduuq", correct: false},
+            {text: " cabbas", correct: true}
           ]
         }
       ],
